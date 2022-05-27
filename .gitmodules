@@ -1,3 +1,0 @@
-[submodule "vnet"]
-	path = vnet
-	url = https://github.com/N3tLiX/azure-terraform-vnet.git
