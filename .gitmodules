@@ -4,3 +4,6 @@
 [submodule "nsg"]
 	path = nsg
 	url = git@github.com:N3tLiX/azure-terraform-nsg.git
+[submodule "rt"]
+	path = rt
+	url = git@github.com:N3tLiX/azure-terraform-routetable.git
