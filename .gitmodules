@@ -1,3 +1,6 @@
 [submodule "vnet"]
 	path = vnet
 	url = git@github.com:N3tLiX/azure-terraform-vnet.git
+[submodule "nsg"]
+	path = nsg
+	url = git@github.com:N3tLiX/azure-terraform-nsg.git
