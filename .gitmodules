@@ -19,3 +19,27 @@
 [submodule "bastionhost"]
 	path = bastionhost
 	url = git@github.com:N3tLiX/azure-terraform-bastion-host.git
+[submodule "aksnodepool"]
+	path = aksnodepool
+	url = git@github.com:N3tLiX/azure-terraform-aks-node-pool.git
+[submodule "akscluster"]
+	path = akscluster
+	url = git@github.com:N3tLiX/azure-terraform-aks-cluster.git
+[submodule "identities"]
+	path = identities
+	url = git@github.com:N3tLiX/azure-terraform-managed-identity.git
+[submodule "kv"]
+	path = kv
+	url = git@github.com:N3tLiX/azure-terraform-key-vault.git
+[submodule "kvaccess"]
+	path = kvaccess
+	url = git@github.com:N3tLiX/azure-terraform-key-vault-access-policy.git
+[submodule "kvsecrets"]
+	path = kvsecrets
+	url = git@github.com:N3tLiX/azure-terraform-key-vault-secrets.git
+[submodule "loganalytics"]
+	path = loganalytics
+	url = git@github.com:N3tLiX/azure-terraform-log-analytics-workspace.git
+[submodule "subnet"]
+	path = subnet
+	url = git@github.com:N3tLiX/azure-terraform-vnet-subnet.git
