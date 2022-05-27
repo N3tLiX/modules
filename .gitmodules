@@ -43,3 +43,6 @@
 [submodule "subnet"]
 	path = subnet
 	url = git@github.com:N3tLiX/azure-terraform-vnet-subnet.git
+[submodule "nat"]
+	path = nat
+	url = git@github.com:N3tLiX/azure-terraform-nat-gateway.git
