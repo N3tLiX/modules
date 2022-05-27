@@ -7,3 +7,15 @@
 [submodule "rt"]
 	path = rt
 	url = git@github.com:N3tLiX/azure-terraform-routetable.git
+[submodule "privateendpoint"]
+	path = privateendpoint
+	url = git@github.com:N3tLiX/azure-terraform-private-endpoint.git
+[submodule "privatednszone"]
+	path = privatednszone
+	url = git@github.com:N3tLiX/azure-terraform-private-dns-zone.git
+[submodule "firewall"]
+	path = firewall
+	url = git@github.com:N3tLiX/azure-terraform-firewall.git
+[submodule "bastionhost"]
+	path = bastionhost
+	url = git@github.com:N3tLiX/azure-terraform-bastion-host.git
